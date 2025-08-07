@@ -14,6 +14,6 @@
 
 - Virtual Machine Software: [Virtual Machine Installation Pack](https://drive.google.com/drive/folders/1L600uY_G_JHGsMkfBGTHhZnVkR1mzuZ8?usp=sharing)
 
-- Voice Recognition Materials:[Voice Recognition Materials](https://drive.google.com/drive/folders/1_oW2LKZiANAS-jY1kXL4FnBjfBLsq0si?usp=sharing)
+- Voice Recognition Materials: [Voice Recognition Materials](https://drive.google.com/drive/folders/1_oW2LKZiANAS-jY1kXL4FnBjfBLsq0si?usp=sharing)
 
 - Mapping & Navigation APP: [Make a Map & Map_nav](https://drive.google.com/drive/folders/1ZR4X-O1RddUPmM1OixjnU89SqaSvSGsi?usp=sharing)
