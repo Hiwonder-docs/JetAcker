@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'JetAcker'
+project = 'JetAcker (Orin Nano Version)'
 copyright = '2025, Hiwonder'
 author = 'Hiwonder'
 release = 'v1.0'

@@ -3,13 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-===========
-JetAcker
-===========
+==================
+JetAcker (Orin Nano Version)
+==================
 
 .. toctree::
    :maxdepth: 2
-   :caption: JetAcker
+   :caption: JetAcker (Orin Nano Version)
 
    docs/1.getting_ready.md
    docs/2.motion_control_course.md
