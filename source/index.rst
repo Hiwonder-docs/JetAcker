@@ -29,3 +29,4 @@ JetAcker (Jetson Nano Version)
    docs/17.ROS2_MoveIt_&_Gazebo_Simulation.md
    docs/18.ROS2_AI_Large_Language_Model_Course.md
    docs/Appendix.md
+   Download <https://drive.google.com/drive/folders/1OpglB5QZyvdZ0ZBmC6jgjg1QOUtnKKTs?usp=drive_link>
