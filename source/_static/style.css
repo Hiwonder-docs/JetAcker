@@ -4,14 +4,14 @@ section p {
 .highlight span.err{
     border:none;
 }
-/*.wy-menu-vertical > ul > li:last-child >a{
+.wy-menu-vertical > ul > li:last-child >a{
     display: block;
     width: fit-content;
     margin: 1.618em;
     background: #f98800;
     color: #fff;
     border-radius: 8px;
-}*/
+}
 .caption{
     display:none;
 }
@@ -24,6 +24,12 @@ section p {
 }
 .wy-nav-side .wy-side-nav-search input[type=text]{
      border-color: #f98800;
+}
+.wy-side-scroll .wy-side-nav-search>div.switch-menus>div.version-switch select{
+    color:#000;
+}
+.wy-side-scroll .wy-side-nav-search>div.switch-menus>div.version-switch select:hover{
+    color:#000;
 }
 .wy-breadcrumbs-aside a{
     color: #f98800;
