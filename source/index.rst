@@ -21,6 +21,7 @@ JetAcker (Jetson Nano Version)
    docs/8.ROS2_Basic_Course.md
    docs/9.ROS2_Docker_Container_Course.md
    docs/10.ROS2_Motion_Control_Course.md
+   docs/11.ROS2_Lidar_Course_V1.0.md
    docs/12.ROS2_Depth_Camera_Basic_Course.md
    docs/13.ROS2_Mapping_&_Navigation_Course.md
    docs/14.ROS+OpenCVCourse.md
